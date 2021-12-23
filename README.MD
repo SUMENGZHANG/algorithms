@@ -33,7 +33,11 @@
 #### 5. 哈希
 #### 6. 贪心(src/algorithms/Greedy)
 * [leetcode55](https://leetcode-cn.com/problems/jump-game/)
-#### 7. 分置
+#### 7. 分治
+
 #### 8. 回溯
+* 八皇后
+* 0-1背包
+* 正则表达式
 #### 9. 动态规划
 #### 10. 字符串匹配
