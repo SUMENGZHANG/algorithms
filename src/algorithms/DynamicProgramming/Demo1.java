@@ -15,9 +15,6 @@ public class Demo1 {
     // 优化点之一：添加回忆录
     private boolean[][] mem = new boolean[weight.length][w];
 
-
-
-
     /**
      * 回溯的方法解决问题
      * @param i
