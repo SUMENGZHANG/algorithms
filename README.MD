@@ -40,4 +40,5 @@
 * 0-1背包
 * 正则表达式
 #### 9. 动态规划
+* Lc05 - LongestPalindromicSubstring 最长回文字串
 #### 10. 字符串匹配
