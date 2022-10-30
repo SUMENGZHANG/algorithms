@@ -40,5 +40,8 @@
 * 0-1背包
 * 正则表达式
 #### 9. 动态规划
-* Lc05 - LongestPalindromicSubstring 最长回文字串
-#### 10. 字符串匹配
+##### 9.1 单链条
+* Lc300 - [Longest Increasing Subsequence 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/)
+* Lc05 - [LongestPalindromicSubstring 最长回文字串](https://leetcode.cn/problems/longest-palindromic-substring/)
+* 面试题05 - [翻转数位](https://leetcode.cn/problems/reverse-bits-lcci/)
+ #### 10. 字符串匹配
